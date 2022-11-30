@@ -1,1 +1,1 @@
-This is a shell basics script repo
+my first readme
