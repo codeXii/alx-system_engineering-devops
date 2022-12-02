@@ -12,9 +12,9 @@
 
 6-firstdirectory - creates a directory named holberton in the /tmp/ directory.
 
-7-movethatfile - moves the file betty from /tmp/ to /tmp/holberton.
+7-movethatfile - moves the file betty from /tmp/ to /tmp/my_first_directory.
 
-8-firstdelete - deletes the file betty in /tmp/holberton.
+8-firstdelete - deletes the file betty in /tmp/my_first_directory.
 
 9-firstdirdeletion - deletes the directory holberton in the /tmp/ directory.
 
@@ -32,8 +32,6 @@
 
 16-clean_emacs - deletes all files in the current working directory that end with the character ~.
 
-17-tree - creates the directories welcome/, welcome/to/, and welcome/to/holberton/ in the current directory with less than two spaces in the script.
+17-tree - creates the directories welcome/, welcome/to/, and welcome/to/school in the current directory with less than two spaces in the script.
 
 18-commas - lists all the files and directories of the current directory separated by commas with the specifications that:
-
-directory namaes should end with a slash files and directories starting with a dot should be listed the listings should be alpha ordered, except for the directories . and .. which should be listed at the very beginning, only digits and letters are used to sort; Digits should come first the listing should end with a new line holberton.mgc - can be used with the command file to detect Holberton data files, which always contain the string HOLBERTON at offset 0.
